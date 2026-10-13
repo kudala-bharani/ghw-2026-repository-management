@@ -1,0 +1,7 @@
+# GitHub Skills practice configuration, prepared with AI assistance.
+version: 2
+updates:
+  - package-ecosystem: "pip"
+    directory: "/"
+    schedule:
+      interval: "weekly"
